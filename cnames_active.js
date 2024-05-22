@@ -2762,6 +2762,7 @@ var cnames_active = {
   "sdh": "sdh.netlify.app",
   "sdjwt": "openwallet-foundation-labs.github.io/sd-jwt-js",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
+  "seaman726": "seaman726.github.io/seaman726"
   "searchconfig": "tomchen.github.io/searchconfig",
   "season": "seasonjs.github.io/tools",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
@@ -3574,9 +3575,14 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
+<<<<<<< HEAD
   "zyy": "zyyou.github.io/notes",
   "seaman726": "seaman726.github.io/seaman726"
   /*
+=======
+  "zyy": "zyyou.github.io/notes"
+  "seaman726": "seaman726.github.io/seaman726"
+>>>>>>> ec74525c8ccd56408a1ecd806fa3f192749256c4
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
    * <3
