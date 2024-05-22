@@ -2762,6 +2762,7 @@ var cnames_active = {
   "sdh": "sdh.netlify.app",
   "sdjwt": "openwallet-foundation-labs.github.io/sd-jwt-js",
   "sdk-design": "hueitan.github.io/javascript-sdk-design",
+  "seaman726": "seaman726.github.io/seaman726"
   "searchconfig": "tomchen.github.io/searchconfig",
   "season": "seasonjs.github.io/tools",
   "seatbelt": "seatbeltjs.github.io/seatbelt",
